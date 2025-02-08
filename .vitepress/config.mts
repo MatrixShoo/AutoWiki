@@ -5,7 +5,7 @@ import VitePressPluginAutoNavSidebar from '@movk-repo/vitepress-plugin-auto-nav-
 export default defineConfig({
   title: "软件指南Wiki",
   description: "软件操作指南",
-  base:'/',
+
   //自动生成nav和sidebar
   vite: {
     plugins: [
